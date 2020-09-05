@@ -1,0 +1,12 @@
+.buttons{
+    padding: 5px;
+    font-size: large;
+    margin: 5px;
+}
+.getAns:hover{
+    background-color: red;
+}
+
+input{
+    width: 50px;
+}
